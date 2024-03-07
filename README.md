@@ -1,0 +1,1 @@
+Developed an Express.js app to showcase proficiency in backend web development. This project serves as a demonstration of creating RESTful APIs, implementing CRUD operations, and managing data for a portfolio application.
